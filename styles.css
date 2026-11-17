@@ -20,3 +20,6 @@
 .team-contact .text-link{white-space:nowrap;margin:0}
 @media(max-width:1100px){nav{gap:16px}nav a{font-size:12px}.professionals-grid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:760px){.hero .eyebrow{max-width:285px;font-size:9px}.area-list{grid-template-columns:1fr 1fr;gap:0 20px}.area-list li{font-size:13px}.professionals-grid{grid-template-columns:1fr}.professional{padding:22px 0}.team-contact{display:block}.team-contact .text-link{margin-top:20px}.professional h3{font-size:24px}}
+
+/* Fotograf?as de los espacios del centro. */
+.hero-visual .real-photo{object-position:65% center}.gallery .photo-large .real-photo{object-position:58% center}.spaces-caption{color:var(--muted);font-size:14px;margin:22px 0 0;max-width:720px}
