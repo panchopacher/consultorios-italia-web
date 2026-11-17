@@ -28,3 +28,5 @@
 
 /* Encuadre original de la fachada en portada. */
 .hero-visual .real-photo{object-position:44% center}@media(max-width:760px){.hero-visual .real-photo{object-position:43% center}}
+
+.gallery-more{margin-top:22px}.gallery-more .photo-large{min-height:640px}.gallery-more .photo-large .real-photo{object-position:center}.gallery-more .photo-slot:not(.photo-large){min-height:309px}@media(max-width:760px){.gallery-more .photo-large{min-height:460px}.gallery-more .photo-slot:not(.photo-large){min-height:265px}}
