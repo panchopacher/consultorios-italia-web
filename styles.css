@@ -25,3 +25,6 @@
 .hero-visual .real-photo{object-position:65% center}.gallery .photo-large .real-photo{object-position:58% center}.spaces-caption{color:var(--muted);font-size:14px;margin:22px 0 0;max-width:720px}
 
 .care{background:#f0f2ed}.care-grid{display:grid;grid-template-columns:1.25fr 1fr;gap:64px;align-items:center}.care-photo{margin:0;overflow:hidden;border-radius:4px}.care-photo img{display:block;width:100%;height:auto}.care-grid h2{margin-top:10px}.care-grid .text-link{display:inline-block;margin-top:15px}@media(max-width:760px){.care-grid{grid-template-columns:1fr;gap:28px}}
+
+/* Encuadre original de la fachada en portada. */
+.hero-visual .real-photo{object-position:44% center}@media(max-width:760px){.hero-visual .real-photo{object-position:43% center}}
